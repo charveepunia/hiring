@@ -1,6 +1,6 @@
 # DevOps Support Engineer Role
 
-In this document we keep few questions for assignment rounds.
+Attempt the following questions
 
 ### 1. Docker
 Docker is a tool to create, deploy, and run applications by using containers. It allows a developer to package up an application with all of the parts it needs, such as libraries and other dependencies thus allowing him/her to `Build once Run Anywhere`.
